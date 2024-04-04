@@ -1,2 +1,2 @@
 
-visita  [aqui](https://github.com/Beamellado/Mi-cv)
+visita mi portafolio [aqui](https://github.com/Beamellado/Mi-cv)
